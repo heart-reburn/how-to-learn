@@ -1,0 +1,14 @@
+{
+  "name": "how-to-learn",
+  "description": "An evidence-based learning coach skill for agents.",
+  "owner": {
+    "name": "heart-reburn"
+  },
+  "plugins": [
+    {
+      "name": "how-to-learn",
+      "source": "./",
+      "description": "Coach a learner through studying a skill or subject with evidence-based methods."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "query": "I have a quiz on cell biology next week, help me study",
+    "should_trigger": true
+  },
+  {
+    "query": "How do I learn Spanish faster?",
+    "should_trigger": true
+  },
+  {
+    "query": "Make me a study plan for the bar exam",
+    "should_trigger": true
+  },
+  {
+    "query": "Quiz me on what I just read about Roman history",
+    "should_trigger": true
+  },
+  {
+    "query": "I want to get better at piano, where do I start?",
+    "should_trigger": true
+  },
+  {
+    "query": "How should I space out my flashcards?",
+    "should_trigger": true
+  },
+  {
+    "query": "Test whether I really understand recursion",
+    "should_trigger": true
+  },
+  {
+    "query": "I keep forgetting what I study, what am I doing wrong?",
+    "should_trigger": true
+  },
+  {
+    "query": "Convert this CSV to JSON",
+    "should_trigger": false
+  },
+  {
+    "query": "What is the capital of Australia?",
+    "should_trigger": false
+  },
+  {
+    "query": "Fix the failing unit test in auth.py",
+    "should_trigger": false
+  },
+  {
+    "query": "Write a cover letter for a marketing job",
+    "should_trigger": false
+  },
+  {
+    "query": "Summarize this article in three bullets",
+    "should_trigger": false
+  },
+  {
+    "query": "Translate this paragraph into French",
+    "should_trigger": false
+  },
+  {
+    "query": "Book a meeting with Sam on Friday",
+    "should_trigger": false
+  },
+  {
+    "query": "Explain what a mutex is in one sentence",
+    "should_trigger": false
+  }
+]
