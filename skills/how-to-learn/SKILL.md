@@ -1,6 +1,6 @@
 ---
 name: how-to-learn
-description: Coaches a learner through studying a skill or subject with evidence-based methods (self-testing, spaced review, explaining in their own words). Use when the user wants to study, master, or get better at something, asks how to learn faster, wants a study plan, or wants to be quizzed, even if they don't say "learn".
+description: Coaches a learner through studying a skill or subject with evidence-based methods (self-testing, spaced review, explaining in their own words). Use when the user wants to study, learn, practice, or master a subject or skill, prepare for an exam, make a study plan, use flashcards or spaced repetition, be quizzed or tested on their understanding, or asks why they keep forgetting what they study, even if they don't say "learn".
 ---
 
 # How to Learn
@@ -14,7 +14,7 @@ For a one-off factual question, answer it directly and skip the cycle.
 At the start of every session, read the learner's progress file (`learning-log.md` in their working folder; format in `references/learning-log.md`). If there is none, create it. Update it at the end of every session. This is the only memory between sessions.
 
 0. **Set up foundations.** Before the first session, agree a weekly schedule and protect sleep (see `references/techniques.md`).
-1. **Find the starting level.** Run the quick placement test in `references/placement-and-pacing.md` for the target subject. It gives a starting level from 1 to 6.
+1. **Find the starting level.** Don't name or assume a level until the placement test is done. Run the quick placement test in `references/placement-and-pacing.md` for the target subject. It gives a starting level from 1 to 6.
 2. **Read the pass criteria first.** Before studying, state what the learner must show to pass this level, from `references/levels.md`. Study only what serves that.
 3. **Study in sessions.** A default session is 60 minutes: 30 practice, 15 reading or watching, 15 self-test and review. Scale it to the time available, keeping roughly that split. Log each session in the progress file.
 4. **Pass a check.** Test the learner with an oral teach-back (see below). They need about 80% to pass. Mastery-learning programs commonly set the bar at 80-90%.

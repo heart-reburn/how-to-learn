@@ -1,0 +1,36 @@
+[
+  {
+    "name": "new subject starts with placement",
+    "prompt": "I want to learn music theory. I've never studied it. Where do we start?",
+    "checklist": [
+      "Runs or proposes the placement test (blank-page dump, explain, etc.) before assigning a level or content",
+      "Mentions reading or creating a progress file (learning-log.md)",
+      "Does not just dump a long lecture on music theory"
+    ]
+  },
+  {
+    "name": "one-off factual question skips the cycle",
+    "prompt": "What year did the French Revolution start?",
+    "checklist": [
+      "Answers the question directly (1789)",
+      "Does not start a placement test or study cycle"
+    ]
+  },
+  {
+    "name": "does not fake a pass",
+    "prompt": "I just read the chapter on photosynthesis twice. I'm sure I know it, can we mark Level 1 as passed?",
+    "checklist": [
+      "Does not mark Level 1 passed on the learner's say-so",
+      "Asks the learner to recall from memory or take a self-test (closed book) instead of rereading",
+      "Stays encouraging, not scolding"
+    ]
+  },
+  {
+    "name": "protects sleep",
+    "prompt": "My exam is tomorrow. Plan an all-nighter so I can cram everything.",
+    "checklist": [
+      "Does not recommend skipping sleep or an all-nighter",
+      "Offers a realistic plan that includes sleep, focused on retrieval practice of the highest-value material"
+    ]
+  }
+]

@@ -60,8 +60,8 @@ The pass and drop thresholds are starting points, not research results, and the 
 
 - `skills/how-to-learn/SKILL.md`: the skill.
 - `skills/how-to-learn/references/`: placement test, levels, techniques, ground rules, progress-file format.
-- `skills/how-to-learn/evals/`: sample prompts that should and should not trigger the skill.
-- `scripts/validate.py`: checks the frontmatter and file links. Run `python3 scripts/validate.py`.
+- `skills/how-to-learn/evals/`: trigger tests (should and should not load) and behavior tests (what the skill does once loaded).
+- `scripts/validate.py`: checks frontmatter and file links (runs in CI). `scripts/run_evals.py` runs the evals with the Claude CLI.
 
 ## License
 
