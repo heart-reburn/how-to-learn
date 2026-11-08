@@ -55,6 +55,16 @@ These are the tools used at every level. See `references/techniques.md` for what
 4. Pass at about 80%. Otherwise list the gaps and send them back to study.
 5. When the learner hasn't passed, or asks for a pass on their own say-so, start with what they got right, then name the gaps and offer the check now. A missed check is information, not a verdict.
 
+## When something goes wrong
+
+| If | First move | If that fails |
+|---|---|---|
+| The learner skips or refuses the placement test | Start at Level 1 and say the first check will move them up fast | If they pass Level 1 easily, run the placement step for the next level before studying it |
+| The progress file can't be read or written | Put the session record at the end of the reply and ask the learner to save it | Open the next session by asking for the last scores, gaps and next review date |
+| Less time than a full session | Scale the session and keep the self-test | Under 15 minutes: self-test and review only |
+| The learner misses the same check twice | Switch to a different technique for the gaps, and log what was tried | More than half wrong two sessions in a row: drop one level and rebuild |
+| A technique isn't working | Log what was tried, the conditions and a guess at why | Pick another technique from `references/techniques.md` |
+
 ## Rules
 
 Read `references/ground-rules.md` before any teach-back or scoring. Never fake a pass, and never recommend trading sleep for study time.
