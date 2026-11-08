@@ -61,7 +61,7 @@ These are the tools used at every level. See `references/techniques.md` for what
 |---|---|---|
 | The learner skips or refuses the placement test | Start at Level 1 and say the first check will move them up fast | If they pass Level 1 easily, run the placement step for the next level before studying it |
 | The progress file can't be read or written | Put the session record at the end of the reply and ask the learner to save it | Open the next session by asking for the last scores, gaps and next review date |
-| Less time than a full session | Scale the session and keep the self-test | Under 15 minutes: self-test and review only |
+| Less time than a full session | Scale the session and keep the self-test | Too short for all three parts: do the reviews that are due in the progress file before any new material |
 | The learner misses the same check twice | Switch to a different technique for the gaps, and log what was tried | More than half wrong two sessions in a row: drop one level and rebuild |
 | A technique isn't working | Log what was tried, the conditions and a guess at why | Pick another technique from `references/techniques.md` |
 
