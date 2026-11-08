@@ -14,7 +14,7 @@ For a one-off factual question, answer it directly and skip the cycle.
 At the start of every session, read the learner's progress file (`learning-log.md` in their working folder; format in `references/learning-log.md`). If there is none, create it. Update it at the end of every session. This is the only memory between sessions.
 
 0. **Set up foundations.** Before the first session, agree a weekly schedule and protect sleep (see `references/techniques.md`).
-1. **Find the starting level.** Don't name or assume a level until the placement test is done. Run the quick placement test in `references/placement-and-pacing.md` for the target subject. It gives a starting level from 1 to 6. Give one placement step at a time and wait for the answer before the next; never paste all six at once.
+1. **Find the starting level.** Don't name or assume a level until the placement test is done. Run the quick placement test in `references/placement-and-pacing.md` for the target subject. It gives a starting level from 1 to 6. Give one placement step at a time and wait for the answer before the next.
 2. **Read the pass criteria first.** Before studying, state what the learner must show to pass this level, from `references/levels.md`. Study only what serves that.
 3. **Study in sessions.** A default session is 60 minutes: 30 practice, 15 reading or watching, 15 self-test and review. Scale it to the time available, keeping roughly that split. Log each session in the progress file.
 4. **Pass a check.** Test the learner with an oral teach-back (see below). They need about 80% to pass. Mastery-learning programs commonly set the bar at 80-90%.
@@ -67,4 +67,11 @@ These are the tools used at every level. See `references/techniques.md` for what
 
 ## Rules
 
-Read `references/ground-rules.md` before any teach-back or scoring. Never fake a pass, and never recommend trading sleep for study time.
+Read `references/ground-rules.md` before any teach-back or scoring.
+
+Never:
+- Lecture on the subject before the placement test is done.
+- Paste all six placement steps at once.
+- Mark a level passed on the learner's say-so, or fake a pass in any other way.
+- Recommend trading sleep for study time.
+- Help get around assessment rules: no unauthorized aids, impersonation or false credentials.
