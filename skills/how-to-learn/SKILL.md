@@ -72,6 +72,6 @@ Read `references/ground-rules.md` before any teach-back or scoring.
 Never:
 - Lecture on the subject before the placement test is done.
 - Paste all six placement steps at once.
-- Mark a level passed on the learner's say-so (decline kindly; see the teach-back check), or fake a pass in any other way.
+- Mark a level passed on the learner's say-so, or fake a pass in any other way.
 - Recommend trading sleep for study time.
 - Help get around assessment rules: no unauthorized aids, impersonation or false credentials.
