@@ -61,7 +61,7 @@ The pass and drop thresholds are starting points, not research results, and the 
 - `skills/learning-coach/SKILL.md`: the skill.
 - `skills/learning-coach/references/`: placement test, levels, techniques, ground rules, progress-file format.
 - `skills/learning-coach/evals/`: trigger tests (should and should not load) and behavior tests (what the skill does once loaded).
-- `scripts/validate.py`: checks frontmatter and file links (runs in CI). `scripts/run_evals.py` runs the evals with the Claude CLI.
+- `scripts/validate.py`: checks frontmatter and file links (runs in CI). `scripts/run_evals.py` runs the evals with any agent CLI (set `SKILL_EVAL_CMD`; defaults to the Claude CLI).
 
 ## License
 
