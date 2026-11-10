@@ -1,4 +1,4 @@
-# How to Learn
+# Learning Coach
 
 A skill that coaches a learner through studying anything, using methods with strong evidence behind them: testing yourself, spaced review, explaining ideas back, and checking your own understanding. It works with Claude Code and other tools that read `SKILL.md` skills.
 
@@ -24,17 +24,17 @@ Anyone studying a subject or building a skill who wants a coach that tests them 
 Claude Code, as a plugin:
 
 ```
-/plugin marketplace add heart-reburn/how-to-learn
-/plugin install how-to-learn@how-to-learn
+/plugin marketplace add heart-reburn/learning-coach
+/plugin install learning-coach@learning-coach
 ```
 
 Or copy the skill folder by hand:
 
 ```
-cp -R skills/how-to-learn ~/.claude/skills/
+cp -R skills/learning-coach ~/.claude/skills/
 ```
 
-Other tools that read `SKILL.md` folders: copy `skills/how-to-learn/` into that tool's skills directory.
+Other tools that read `SKILL.md` folders: copy `skills/learning-coach/` into that tool's skills directory.
 
 ## Example
 
@@ -52,15 +52,15 @@ Other tools that read `SKILL.md` folders: copy `skills/how-to-learn/` into that 
 
 ## Evidence
 
-The methods come from learning research: practice testing and spaced practice rated high-utility, and rereading, highlighting, and summarizing rated low (Dunlosky et al., 2013). Full sources are in [`skills/how-to-learn/references/techniques.md`](skills/how-to-learn/references/techniques.md).
+The methods come from learning research: practice testing and spaced practice rated high-utility, and rereading, highlighting, and summarizing rated low (Dunlosky et al., 2013). Full sources are in [`skills/learning-coach/references/techniques.md`](skills/learning-coach/references/techniques.md).
 
 The pass and drop thresholds are starting points, not research results, and the file says so.
 
 ## Repo layout
 
-- `skills/how-to-learn/SKILL.md`: the skill.
-- `skills/how-to-learn/references/`: placement test, levels, techniques, ground rules, progress-file format.
-- `skills/how-to-learn/evals/`: trigger tests (should and should not load) and behavior tests (what the skill does once loaded).
+- `skills/learning-coach/SKILL.md`: the skill.
+- `skills/learning-coach/references/`: placement test, levels, techniques, ground rules, progress-file format.
+- `skills/learning-coach/evals/`: trigger tests (should and should not load) and behavior tests (what the skill does once loaded).
 - `scripts/validate.py`: checks frontmatter and file links (runs in CI). `scripts/run_evals.py` runs the evals with the Claude CLI.
 
 ## License

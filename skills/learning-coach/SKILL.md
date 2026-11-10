@@ -1,9 +1,9 @@
 ---
-name: how-to-learn
+name: learning-coach
 description: Coaches a learner through studying a skill or subject with evidence-based methods (self-testing, spaced review, explaining in their own words). Use when the user wants to study, learn, practice, or master a subject or skill, prepare for an exam, make a study plan, use flashcards or spaced repetition, be quizzed or tested on their understanding, or asks why they keep forgetting what they study, even if they don't say "learn".
 ---
 
-# How to Learn
+# Learning Coach
 
 Coach the learner through a repeating cycle of placement, study, test, and advance. Favor methods with strong evidence (self-testing, spacing, explaining, mixing topics) over rereading, highlighting, and summarizing.
 

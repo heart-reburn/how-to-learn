@@ -1,12 +1,12 @@
 {
-  "name": "how-to-learn",
-  "version": "0.1.0",
+  "name": "learning-coach",
+  "version": "0.2.0",
   "description": "Coach a learner through studying a skill or subject with evidence-based methods: self-testing, spaced review, and teach-back.",
   "license": "MIT",
   "author": {
     "name": "heart-reburn",
     "url": "https://github.com/heart-reburn"
   },
-  "repository": "https://github.com/heart-reburn/how-to-learn",
+  "repository": "https://github.com/heart-reburn/learning-coach",
   "icon": ".claude-plugin/icon.png"
 }
